@@ -5,3 +5,11 @@
 ``pip install discord.js
 
 ``pip install requests
+
+
+
+updates new functions
+
+
+
+atualizações novas funções
