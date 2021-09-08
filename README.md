@@ -11,5 +11,3 @@
 updates new functions
 
 
-
-atualizações novas funções
